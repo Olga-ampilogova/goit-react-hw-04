@@ -1,0 +1,23 @@
+.imageContainer {
+    padding: 0px;
+    width: 380px;
+    height: 120px;
+    font-size: 15px;
+    border: 2px solid #3498db;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.span {
+    color: blue;
+}
+
+.text {
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.item {
+    max-width: 1700px;
+}

@@ -1,0 +1,14 @@
+.searchBar {
+  background-color: rgb(183, 233, 236);
+  display: flex;
+}
+
+.loaderContainer {
+  margin-left: 40%;
+}
+
+.errorMessage {
+  margin-left: 40%;
+  font: 24px;
+  color: brown;
+}
